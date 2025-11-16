@@ -1,0 +1,6 @@
+# Example for Task 0
+touch 0-current_working_directory
+echo '#!/bin/bash' > 0-current_working_directory
+echo 'pwd' >> 0-current_working_directory
+chmod +x 0-current_working_directory
+./0-current_working_directory  # Test
